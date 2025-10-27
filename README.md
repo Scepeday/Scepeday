@@ -11,7 +11,7 @@
 ### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjdlNnhwczJuN3JrMG80YmpqczRsdm9iZnJwNGh3YmxhMDNuZ2U4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif" width="30"> A little more about me...  
 
 ```javascript
-const thai = {
+const santiago = {
   code: [Javascript, HTML, CSS, Python, Java, C#],
   tools: [React, Node, Styled-Components,Docker, Linux],
 challenge: "Trying to get everything done the best I can to get a job as a developer or an IT technician :)"
