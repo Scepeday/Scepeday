@@ -1,21 +1,31 @@
-<h2> Hey, I'm Santiago Cepeda </h2>
-<p><em>Web Developer student at <a href="https://humber.ca/">Humber College</a>
-</br>IT Support Technician with the <a href="https://www.comptia.org/en/certifications/a/">A+ certification</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# Hey, I'm Santiago Cepeda 👋
 
-[![Linkedin: santiagocepeda](https://img.shields.io/badge/-santiagocepeda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiagocepeda/)](https://www.linkedin.com/in/santiagocepeda/)
-[![GitHub scepeday](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/scepeday)
+Welcome to my GitHub! I'm a passionate computer science engineer with a love for web development, data engineering, and software development.
+
+## About Me
+
+- 🎓 **Major**: Software Engineering 
+- 📍 **Location**: Toronto - Canada
+- 💬 **Ask me about**: ThreeJS, Python, Data Engineering, Web Development, MMA  
+- ⚡ **Fun Fact**: I train MMA but I'm actually a pretty nice guy 
+
+## Skills & Technologies
+
+Here are some of the tools and technologies I love working with:
+
+- **Languages**: Python, Java, C#, C++, JavaScript
+- **Databases**: MySQL, PostgreSQL
+- **Tools**: GitHub, Git
+- **Other**: Linux (Arch btw), Comptia A+
+
+## Get in Touch
+
+- 📧 [Email](mailto:scepedayb@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/santiagocepeda/)
+
+Feel free to explore my repositories or get in touch with me if you have any questions or want to collaborate! 😄
+
+## :zap: Recent Activity
 
 
-### A little more about me...  
-
-```javascript
-const santiago = {
-  code: [Javascript, HTML, CSS, Python, Java, C#],
-  tools: [Styled-Components, Docker, Linux(Arch c:)],
-challenge: "Trying to get everything done the best I can to get a job as a developer or an IT technician :)"
-}
-```
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAlexandro&hide_border=true&layout=compact)
