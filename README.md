@@ -1,4 +1,4 @@
-# Hey, I'm Santiago Cepeda 👋
+# Hey, I'm Santiago 👋
 
 Welcome to my GitHub! I'm a passionate computer science, web developer and IT support technician with a love for computers, data engineering and software development.
 
