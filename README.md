@@ -15,6 +15,8 @@ Backend enthusiast | Design-minded | Heavily tattooed, highly nerdy about data e
 ## Tools & Languages used ⚙️:
 Key areas of learning include Tailwind and React on the front-end, and Next.js on the back-end.
 
+Also taking my coding jorney further with [Boot.dev](https://www.boot.dev/u/cuz0o) 
+
 
 ## Get in Touch
 
