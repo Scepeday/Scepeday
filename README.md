@@ -1,23 +1,21 @@
 # Hey, I'm Santiago 👋
 
-Welcome to my GitHub! I'm a passionate computer science, web developer and IT support technician with a love for computers, data engineering and software development.
+Backend enthusiast | Design-minded | Heavily tattooed, highly nerdy about data engineering and software development.
 
-## About Me
+🇨🇦 **Based in**: Toronto
 
-- 📍 **Location**: Toronto - Canada
-- 💬 **Ask me about**: NextJS, Python, TypeScript and Web Development.  
-- ⚡ **Fun Fact**: I train MMA but I'm actually a pretty nice guy.
+💬 **Ask me about**: Building and understanding nerdy stuff.
 
-## Skills & Technologies
+## What I am doing now 🧑‍💻:
 
-Here are some of the tools and technologies I love working with:
+- 🔭 I’m currently diving deeper into deployment tooling—specifically containerization with Docker and managing Linux-based server environments. Also focusing on unit and integration testing for reliable frontend.
+- ✨ Currently studying Web Development full-time.
+- 🌏 Contact me on [LinkedIn](https://www.linkedin.com/in/santiagocepeda/)
 
-- **Languages**: Python, TypeScript, C++, JavaScript
-- **Databases**: MySQL, PostgreSQL
-- **Tools**: GitHub, Git
-- **Other**: Linux (Arch btw), Comptia A+
+## Tools & Languages used ⚙️:
+Key areas of learning include Tailwind and React on the front-end, and Next.js on the back-end.
+
 
 ## Get in Touch
 
 - 📧 [Email](mailto:scepedayb@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/santiagocepeda/)
