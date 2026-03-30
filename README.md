@@ -8,15 +8,13 @@ Backend enthusiast | Design-minded | Heavily tattooed, highly nerdy.
 
 ## What I am doing now 🧑‍💻:
 
-- 🔭 I’m diving deeper into compilers (writing my own in C++), data engineering (creating more projects in Python) and web development.
-- ✨ Currently studying Web Development full-time.
+- 🔭 Currently studying Web Development full-time.
 - 🌏 Contact me on [LinkedIn](https://www.linkedin.com/in/santiagocepeda/)
 
 ## Tools & Languages used ⚙️:
 Key areas of learning include Tailwind and React on the front-end, and Next.js on the back-end.
 
 Also taking my coding jorney further with [Boot.dev](https://www.boot.dev/u/cuz0o) 
-
 
 ## Get in Touch
 
